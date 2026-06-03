@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+_test_*
+_push_*
+stderr.log
+_tc.json
+_t.json
